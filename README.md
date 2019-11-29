@@ -10,7 +10,12 @@ Two ways to run code
  or
  java -jar target\code.assess-1.0.0.jar <surveyFilePath> <responseFilePath>
 
-- Second Way , Run CultureTest.java to run all tests.
+- Alternately , Run CultureTest.java to run all tests.
+
+
+--------------------------------------------------------------------------------
+
+
 
 ## Data Format
 
